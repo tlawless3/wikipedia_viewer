@@ -1,0 +1,57 @@
+/* fresh #4abdac
+   vermillion #fc4a1a
+   clean #dfdce3
+grain #d7cec7
+blackboard #565656
+oxblood #76323f*/
+
+body {
+  background-color:#d7cec7;
+  font-family: 'Roboto', serif;
+}
+header{
+  font-size:10px;
+  text-align: right;
+  color:#565656;
+}
+h1{
+  text-align: center;
+  font-weight: bold;
+  color: #565656;
+}
+hr{
+  color:#76323f;
+  background-color: #76323f;
+  height: 3px;
+}
+.container-2{
+  text-align: center;
+  padding-top: 50px;
+}
+#search{
+  border-radius: 10px;
+  border-color:#76323f;
+  font-family: inherit;
+}
+.randButton{
+  text-align: center;
+  padding-top: 15px;
+}
+#rand{
+  border-radius: 10px;
+  border-color:#76323f;
+  background-color:#d7cec7;
+  font-family: inherit;
+  color:#565656;
+}
+.results{
+  padding-top: 25px;
+}
+#wikiTitle{
+  color: #76323f;
+  font-size: 30px;
+}
+#wikiText{
+  color:#565656;
+  font-size: 20px;
+}
